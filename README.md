@@ -1,23 +1,25 @@
+# 💻 My Profile
+
+```javascript
 const Developer = {
   name: "Mryex",
   experience: {
     coding: {
       Lua: "5 years",
-      Python: "3 years",
-      CSharp: "5 years",
+      Python: "2 years",
+      C#: "4 years",
       C++: "2 years",
       HTML: "4 years",
       ElectronJS: "3 months"
     },
     security: {
-      Linux: "3 years"
+      Linux: "2 years"
     }
   },
   focus: ["Fullstack Development", "Game Development", "Cyber Security"],
-  learning: ["Rust", "System Design", "Advanced Security"],
+  learning: ["Advanced Security"],
   contact: {
-    discord: "mryex1",
-    email: "mryexofficial@hotmail.com"
+    email: "mertcanalan@proton.me"
   }
 };
 
