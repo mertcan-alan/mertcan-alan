@@ -1,6 +1,6 @@
 ```javascript
 const Developer = {
-  name: "Mryex",
+  name: "Mert",
   experience: {
     coding: {
       Lua: "5 years",
