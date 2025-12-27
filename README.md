@@ -27,4 +27,4 @@ export default Developer;
 
 
 
-![snake gif](https://github.com/mertcan-alan/mertcanalan/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/mertcan-alan/mertcan-alan/blob/output/github-snake-dark.svg)
