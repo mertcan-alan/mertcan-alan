@@ -1,5 +1,3 @@
-# 💻 My Profile
-
 ```javascript
 const Developer = {
   name: "Mryex",
@@ -25,7 +23,7 @@ const Developer = {
 
 export default Developer;
 
-
+```
 
 
 
